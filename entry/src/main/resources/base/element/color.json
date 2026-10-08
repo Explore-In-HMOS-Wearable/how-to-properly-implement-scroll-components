@@ -1,0 +1,80 @@
+{
+  "color": [
+    {
+      "name": "height_card_green_accent",
+      "value": "#65D58A"
+    },
+    {
+      "name": "height_card_purple_accent",
+      "value": "#BF8CFF"
+    },
+    {
+      "name": "height_formula_background",
+      "value": "#111C2B"
+    },
+    {
+      "name": "start_window_background",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "text_primary",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "text_secondary",
+      "value": "#A7A7AD"
+    },
+    {
+      "name": "text_description",
+      "value": "#B7B7BD"
+    },
+    {
+      "name": "back_button_text",
+      "value": "#9CCBFF"
+    },
+    {
+      "name": "transparent",
+      "value": "#00000000"
+    },
+    {
+      "name": "info_card_background",
+      "value": "#1C1C1E"
+    },
+    {
+      "name": "info_card_default_accent",
+      "value": "#0A84FF"
+    },
+    {
+      "name": "rule_correct_text",
+      "value": "#65D58A"
+    },
+    {
+      "name": "rule_incorrect_text",
+      "value": "#FF8A84"
+    },
+    {
+      "name": "rule_correct_background",
+      "value": "#173822"
+    },
+    {
+      "name": "rule_incorrect_background",
+      "value": "#3B1D1D"
+    },
+    {
+      "name": "secondary_button_background",
+      "value": "#2C2C2E"
+    },
+    {
+      "name": "final_action_completed_background",
+      "value": "#237A3B"
+    },
+    {
+      "name": "final_action_message",
+      "value": "#D0D0D5"
+    },
+    {
+      "name": "safe_area_stroke",
+      "value": "#4D65D58A"
+    }
+  ]
+}

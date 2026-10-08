@@ -1,0 +1,180 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "label"
+    },
+    {
+      "name": "back_button",
+      "value": "‹  Back"
+    },
+    {
+      "name": "rule_correct_symbol",
+      "value": "✓"
+    },
+    {
+      "name": "rule_incorrect_symbol",
+      "value": "×"
+    },
+    {
+      "name": "height_assignment_title",
+      "value": "Height assignment"
+    },
+    {
+      "name": "height_assignment_subtitle",
+      "value": "Viewport height belongs to Scroll"
+    },
+    {
+      "name": "height_rule_scroll",
+      "value": "Scroll.height('100%')"
+    },
+    {
+      "name": "height_rule_column",
+      "value": "Column.height('100%')"
+    },
+    {
+      "name": "height_card_1_title",
+      "value": "1. Constrain the viewport"
+    },
+    {
+      "name": "height_card_1_description",
+      "value": "Give Scroll the available screen height so ArkUI can calculate a visible viewport."
+    },
+    {
+      "name": "height_card_2_title",
+      "value": "2. Keep content natural"
+    },
+    {
+      "name": "height_card_2_description",
+      "value": "Set the child Column width only. Its height becomes the total height of its children."
+    },
+    {
+      "name": "height_card_3_title",
+      "value": "3. A scroll range appears"
+    },
+    {
+      "name": "height_card_3_description",
+      "value": "When content height exceeds viewport height, Scroll can move through the difference."
+    },
+    {
+      "name": "scrollable_distance",
+      "value": "Scrollable distance"
+    },
+    {
+      "name": "scrollable_distance_formula",
+      "value": "content height − viewport height"
+    },
+    {
+      "name": "height_assignment_notice",
+      "value": "Notice that this Column intentionally has no height modifier."
+    },
+    {
+      "name": "home_title",
+      "value": "Scroll Guide"
+    },
+    {
+      "name": "home_subtitle",
+      "value": "ArkUI patterns for round wearables"
+    },
+    {
+      "name": "home_rule",
+      "value": "Rule: constrain the viewport; let content grow."
+    },
+    {
+      "name": "overflow_title",
+      "value": "Content overflow"
+    },
+    {
+      "name": "overflow_remove_two",
+      "value": "−2"
+    },
+    {
+      "name": "overflow_reset",
+      "value": "Reset"
+    },
+    {
+      "name": "overflow_add_two",
+      "value": "+2"
+    },
+    {
+      "name": "overflow_top",
+      "value": "Top"
+    },
+    {
+      "name": "overflow_bottom",
+      "value": "Bottom"
+    },
+    {
+      "name": "overflow_footer",
+      "value": "Short content stays still; long content scrolls. No child height changes are needed."
+    },
+    {
+      "name": "round_title",
+      "value": "Round display"
+    },
+    {
+      "name": "round_subtitle",
+      "value": "Keep key content inside the readable center"
+    },
+    {
+      "name": "round_hide_safe_area",
+      "value": "Hide safe-area guide"
+    },
+    {
+      "name": "round_show_safe_area",
+      "value": "Show safe-area guide"
+    },
+    {
+      "name": "round_jump_final_action",
+      "value": "Jump to final action"
+    },
+    {
+      "name": "round_horizontal_inset_title",
+      "value": "Horizontal inset"
+    },
+    {
+      "name": "round_horizontal_inset_description",
+      "value": "Avoid placing text and controls against the narrow curved edges."
+    },
+    {
+      "name": "round_natural_card_title",
+      "value": "Natural card height"
+    },
+    {
+      "name": "round_natural_card_description",
+      "value": "Allow text wrapping and content-driven height instead of forcing every card to one height."
+    },
+    {
+      "name": "round_bottom_room_title",
+      "value": "Bottom breathing room"
+    },
+    {
+      "name": "round_bottom_room_description",
+      "value": "Extra space after the final control keeps it visible and reachable near the lower curve."
+    },
+    {
+      "name": "round_completed",
+      "value": "Completed ✓"
+    },
+    {
+      "name": "round_final_action",
+      "value": "Final action"
+    },
+    {
+      "name": "round_reset_action",
+      "value": "Reset action"
+    },
+    {
+      "name": "round_end_content",
+      "value": "✓ End of content reached"
+    }
+  ]
+}
